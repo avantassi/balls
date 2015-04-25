@@ -1,0 +1,95 @@
+.icon {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.icon-icon-arrow {
+    width: 18px;
+    height: 29px;
+    background-position: -10px -10px;
+}
+
+.icon-icon-baloon {
+    width: 44px;
+    height: 65px;
+    background-position: -48px -10px;
+}
+
+.icon-icon-bino {
+    width: 72px;
+    height: 34px;
+    background-position: -112px -10px;
+}
+
+.icon-icon-dot {
+    width: 35px;
+    height: 50px;
+    background-position: -204px -10px;
+}
+
+.icon-icon-fb {
+    width: 22px;
+    height: 23px;
+    background-position: -112px -80px;
+}
+
+.icon-icon-gal-arrow {
+    width: 20px;
+    height: 34px;
+    background-position: -154px -80px;
+}
+
+.icon-icon-glasses {
+    width: 75px;
+    height: 28px;
+    background-position: -10px -134px;
+}
+
+.icon-icon-in {
+    width: 22px;
+    height: 23px;
+    background-position: -194px -80px;
+}
+
+.icon-icon-like {
+    width: 56px;
+    height: 58px;
+    background-position: -105px -134px;
+}
+
+.icon-icon-mail {
+    width: 23px;
+    height: 17px;
+    background-position: -194px -123px;
+}
+
+.icon-icon-photo {
+    width: 65px;
+    height: 50px;
+    background-position: -259px -10px;
+}
+
+.icon-icon-plane {
+    width: 41px;
+    height: 40px;
+    background-position: -237px -80px;
+}
+
+.icon-icon-play {
+    width: 92px;
+    height: 106px;
+    background-position: -181px -160px;
+}
+
+.icon-icon-quest {
+    width: 40px;
+    height: 34px;
+    background-position: -344px -10px;
+}
+
+.icon-icon-vk {
+    width: 22px;
+    height: 23px;
+    background-position: -344px -64px;
+}
